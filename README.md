@@ -28,3 +28,5 @@ SELECT
     (v.quantidade * p.preco) AS total_venda
 FROM vendas v
 JOIN produtos p ON v.id_produto = p.id_produto;
+
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/a3a50035-2c85-423a-9b24-4f965a1f862e" />
